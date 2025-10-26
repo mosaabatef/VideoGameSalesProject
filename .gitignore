@@ -1,0 +1,20 @@
+# Ignore Python virtual environments
+venv/
+Venve/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and system files
+*.csv
+*.xlsx
+*.zip
+*.tar
+*.gz
+*.rar
+Thumbs.db
+Desktop.ini
